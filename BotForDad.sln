@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotForDad", "BotForDad\BotForDad.csproj", "{DFACF9DE-3511-421B-99D0-8CD44A1AADD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFACF9DE-3511-421B-99D0-8CD44A1AADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFACF9DE-3511-421B-99D0-8CD44A1AADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFACF9DE-3511-421B-99D0-8CD44A1AADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFACF9DE-3511-421B-99D0-8CD44A1AADD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {343375C0-18DD-4201-A459-093BC12E10CC}
+	EndGlobalSection
+EndGlobal
